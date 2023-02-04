@@ -1,4 +1,4 @@
-class Stack:
+'''class Stack:
     def __init__(self):
         self.items = []
     def isEmpty(self):
@@ -16,4 +16,5 @@ stack=Stack()
 stack.push('Red')
 stack.push('Green')
 stack.push('Blue')
-stack.push('Yellow')
+stack.push('Yellow')'''
+
